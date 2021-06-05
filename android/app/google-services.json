@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129377398331",
+    "project_id": "sla2021project",
+    "storage_bucket": "sla2021project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129377398331:android:d6dd10909957d86a15761e",
+        "android_client_info": {
+          "package_name": "com.example.slaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129377398331-vr6c5ehe3mb709rma94eqcqchal24tjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAUgpw1bgatoXDzt2SKwCTA8VjYOk-2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129377398331-vr6c5ehe3mb709rma94eqcqchal24tjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
